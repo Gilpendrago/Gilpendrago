@@ -11,11 +11,11 @@
 
 ### `01` / About Me
 
-Hey! I'm Karan, an Information Technology undergraduate at **CUSAT, Kerala**.
+Hya! I'm Karan, an Information Technology undergraduate.
 
-I like building things, experimenting with technologies, and figuring out how stuff works. Somewhere between writing code and debugging my own questionable decisions, I ended up enjoying software development.
+I like building things, experimenting with technologies, and figuring out how stuff works. Somewhere between writing code and debugging my own questionable decisions, I ended up not hating software development.
 
-- B.Tech Information Technology @ CUSAT
+- B.Tech Information Technology 
 - Interested in Full-Stack & Software Development
 - Enjoy building projects that solve actual problems
 - Exploring AI-assisted development
