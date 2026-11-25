@@ -1,9 +1,10 @@
 # Karan Krishna
 
 <p align="left">
-  <img src="https://img.shields.io/badge/IT-CUSAT-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Game_Modding-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/IT-CUSAT-2563EB?style=flat&labelColor=30343B" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-8B5CF6?style=flat&labelColor=30343B" />
+<img src="https://img.shields.io/badge/Status-Game_Modding-6B7280?style=flat&labelColor=30343B" />
+<img src="https://img.shields.io/badge/Vibe-Larping-6B7280?style=flat&labelColor=30343B" />
 </p>
 
 ---
